@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/Locomotion/StopWalking_UE.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/Locomotion/Idle_UE.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/Crouched/CrouchingIdle_UE.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/Crouched/CrouchedWalking_UE.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/Locomotion/BS_Locomotion_1D.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/Locomotion/Idle_UE/Driving_Idle_UE.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/Crouched/BS_Crouched_1D.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/Mannequins/Animations/Lean/Lean_L.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/Mannequins/Animations/Lean/Lean_R.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/Mannequins/Animations/Lean/BS_Lean_1D.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01_Custom.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02_Custom.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/Vaulting/vault.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/Vaulting/AM_VaultGorilla.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/WV/XOIL0LK90AYH2POJPU9BCF.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/Assassination/StealthAssassinationAttack_UE.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/Assassination/StealthAssassinationDeath_UE.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/Assassination/AM_StealthAttack.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/ThirdPerson/Input/Actions/IA_Assassin.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Blueprints/BP_Dummy.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Blueprints/BPI_Assassination.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/KO/0MWZXK61JQFM8EIS827SFL.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/Assassination/AM_StealthAssassinationDeath_UE_Montage.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/UI/WB_AssassinatePrompt.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Blueprints/BPC_PlayerStats.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/UI/WB_HUD.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/CrouchedWalking_UE.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/CrouchingIdle_UE.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/Idle_UE.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/RPG_Character/Animations/StopWalking_UE.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_03.uasset",
+				"C:/UE/UE_Projects/RPG_Gorka_Series/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_04.uasset"
+			]
+		}
+	]
+}
